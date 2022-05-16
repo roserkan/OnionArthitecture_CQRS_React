@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\WebApi\\Tech.WebApi\\Tech.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\Tech.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\Tech.Application.csproj",
+        "projectName": "Tech.Application",
+        "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\Tech.Application.csproj",
+        "packagesPath": "C:\\Users\\SerkanÇamkerten\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SerkanÇamkerten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\Tech.Domain.csproj": {
+                "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\Tech.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\Tech.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\Tech.Domain.csproj",
+        "projectName": "Tech.Domain",
+        "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\Tech.Domain.csproj",
+        "packagesPath": "C:\\Users\\SerkanÇamkerten\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SerkanÇamkerten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Infrastructure\\Tech.Infrastructure.Persistence\\Tech.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Infrastructure\\Tech.Infrastructure.Persistence\\Tech.Infrastructure.Persistence.csproj",
+        "projectName": "Tech.Infrastructure.Persistence",
+        "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Infrastructure\\Tech.Infrastructure.Persistence\\Tech.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\SerkanÇamkerten\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Infrastructure\\Tech.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SerkanÇamkerten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\Tech.Application.csproj": {
+                "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\Tech.Application.csproj"
+              },
+              "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\Tech.Domain.csproj": {
+                "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Domain\\Tech.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\WebApi\\Tech.WebApi\\Tech.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\WebApi\\Tech.WebApi\\Tech.WebApi.csproj",
+        "projectName": "Tech.WebApi",
+        "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\WebApi\\Tech.WebApi\\Tech.WebApi.csproj",
+        "packagesPath": "C:\\Users\\SerkanÇamkerten\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\WebApi\\Tech.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SerkanÇamkerten\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\Tech.Application.csproj": {
+                "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Core\\Tech.Application\\Tech.Application.csproj"
+              },
+              "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Infrastructure\\Tech.Infrastructure.Persistence\\Tech.Infrastructure.Persistence.csproj": {
+                "projectPath": "C:\\Users\\SerkanÇamkerten\\Desktop\\Projects\\Tech\\src\\Infrastructure\\Tech.Infrastructure.Persistence\\Tech.Infrastructure.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

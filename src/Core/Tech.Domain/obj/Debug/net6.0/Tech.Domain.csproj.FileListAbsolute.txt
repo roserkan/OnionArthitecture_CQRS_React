@@ -1,0 +1,12 @@
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\bin\Debug\net6.0\Tech.Domain.deps.json
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\bin\Debug\net6.0\Tech.Domain.dll
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\bin\Debug\net6.0\Tech.Domain.pdb
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\Tech.Domain.csproj.AssemblyReference.cache
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\Tech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\Tech.Domain.AssemblyInfoInputs.cache
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\Tech.Domain.AssemblyInfo.cs
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\Tech.Domain.csproj.CoreCompileInputs.cache
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\Tech.Domain.dll
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\refint\Tech.Domain.dll
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\Tech.Domain.pdb
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Domain\obj\Debug\net6.0\ref\Tech.Domain.dll

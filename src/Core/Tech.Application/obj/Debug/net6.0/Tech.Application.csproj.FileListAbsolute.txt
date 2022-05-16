@@ -1,0 +1,15 @@
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\bin\Debug\net6.0\Tech.Application.deps.json
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\bin\Debug\net6.0\Tech.Application.dll
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\bin\Debug\net6.0\Tech.Application.pdb
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\bin\Debug\net6.0\Tech.Domain.dll
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\bin\Debug\net6.0\Tech.Domain.pdb
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.csproj.AssemblyReference.cache
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.AssemblyInfoInputs.cache
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.AssemblyInfo.cs
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.csproj.CoreCompileInputs.cache
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.csproj.CopyComplete
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.dll
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\refint\Tech.Application.dll
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\Tech.Application.pdb
+C:\Users\SerkanÇamkerten\Desktop\Projects\Tech\src\Core\Tech.Application\obj\Debug\net6.0\ref\Tech.Application.dll
